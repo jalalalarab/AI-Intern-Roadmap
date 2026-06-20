@@ -4,3 +4,7 @@ sqlmodel
 pydantic
 scikit-learn
 joblib
+jupyter
+pandas
+matplotlib
+seaborn
